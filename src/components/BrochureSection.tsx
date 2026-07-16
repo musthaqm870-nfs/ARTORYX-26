@@ -35,7 +35,6 @@ export const BrochureSection: React.FC = () => {
             href="/brochure.pdf" 
             target="_blank" 
             rel="noopener noreferrer" 
-            className="inline-block border-2 border-brand-dark text-brand-dark font-bold uppercase tracking-widest text-sm py-4 px-8 hover:bg-brand-dark hover:text-brand-yellow transition-colors"
           >
             Download Campus Brochure
           </a>
