@@ -1,0 +1,6 @@
+{
+  "name": "ARTORYX'26",
+  "description": "Premium fundraising website for a college arts festival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
