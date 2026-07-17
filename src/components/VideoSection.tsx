@@ -42,7 +42,7 @@ export function VideoSection() {
                 allowFullScreen
               ></iframe>
             </div>
-            <h3 className="text-xl font-serif font-bold text-brand-dark text-center">ARTORYX Highlights</h3>
+            <h3 className="text-xl font-serif font-bold text-brand-dark text-center">Markhins Highlights</h3>
           </motion.div>
         </div>
       </div>

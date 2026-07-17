@@ -53,7 +53,12 @@ export function AboutSection() {
               <p className="text-brand-white/80 leading-relaxed mb-8">
                 Help us upgrade our facilities with a complete ceiling renovation and modern seating arrangements to foster a better learning and collaborative environment.
               </p>
-              <a href="#projects" className="text-brand-yellow font-bold uppercase tracking-wider text-sm hover:text-brand-white transition-colors">
+              <a 
+                href="/project-cost-details.pdf" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="text-brand-yellow font-bold uppercase tracking-wider text-sm hover:text-brand-white transition-colors"
+              >
                 View Project Details
               </a>
             </div>

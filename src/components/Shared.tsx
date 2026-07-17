@@ -141,7 +141,7 @@ export function Footer() {
             <Logo className="w-14 h-14 text-brand-yellow" />
             <h3 className="text-3xl font-serif text-brand-white font-bold">ARTORYX'26</h3>
           </div>
-          <p className="text-brand-white/80 mb-2">Bridging Tradition & Innovation</p>
+          <p className="text-brand-white/80 mb-2 font-serif italic text-lg">You are connecting....</p>
           <p className="text-brand-white/80 font-bold text-sm uppercase tracking-wider text-brand-yellow">Organized by Markhins Bengaluru</p>
         </div>
         <div className="flex space-x-6 mb-8 md:mb-0">

@@ -9,7 +9,7 @@ export function ProjectsSection() {
       name: 'Seminar Hall Reconstruction', 
       desc: 'Complete upgrade of the seminar hall including high-quality seating arrangements (₹8,00,000) and complete ceiling renovation covering 1,400 Sq. Ft. (₹2,80,000) to improve acoustics and aesthetics.', 
       budget: 1080000, 
-      img: 'https://images.unsplash.com/photo-1577412647305-991150c7d163?q=80&w=2070&auto=format&fit=crop', 
+      img: '/seminar-hall.png', 
       progress: 0,
       pdfUrl: '/project-cost-details.pdf',
     },
@@ -51,7 +51,15 @@ export function ProjectsSection() {
               className="bg-brand-beige border border-brand-dark/5 rounded-xl overflow-hidden group hover:shadow-xl transition-all duration-300 flex flex-col"
             >
               <div className="h-48 overflow-hidden relative bg-white">
-                <img src={project.img} alt={project.name} className={`w-full h-full transform group-hover:scale-105 transition-transform duration-700 ${project.img.startsWith('/') ? 'object-contain p-2' : 'object-cover'}`} />
+                <img 
+                  src={project.img} 
+                  alt={project.name} 
+                  className={`w-full h-full transform group-hover:scale-105 transition-transform duration-700 ${
+                    project.img.includes('festival') || project.img.includes('budget') || project.img.includes('seminar-hall')
+                      ? 'object-contain p-2' 
+                      : 'object-cover'
+                  }`} 
+                />
               </div>
               <div className="p-6 flex-1 flex flex-col">
                 <h3 className="text-xl font-serif text-brand-blue font-bold mb-2">{project.name}</h3>

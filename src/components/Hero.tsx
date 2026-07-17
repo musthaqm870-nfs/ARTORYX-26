@@ -28,7 +28,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="text-2xl md:text-4xl font-light text-brand-white mb-8 font-serif drop-shadow-md"
         >
-          Bridging Tradition & Innovation
+          You are connecting....
         </motion.h2>
         
         <motion.p 
@@ -37,7 +37,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="text-lg text-brand-white/90 max-w-2xl mx-auto mb-12 font-medium leading-relaxed drop-shadow-md"
         >
-          A creative arts festival celebrating talent, innovation, culture, leadership, and creativity at Markaz Khykha Institute of Higher Islamic Studies.
+          A creative arts festival celebrating talent, innovation, culture, leadership, and creativity at Markhins Bangalore.
         </motion.p>
         
         <motion.div 
