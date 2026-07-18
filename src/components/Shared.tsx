@@ -87,7 +87,7 @@ export function Navbar() {
       <div className="container mx-auto px-6 flex justify-between items-center">
         <a href="#" className="flex items-center gap-3">
           <Logo className={`w-12 h-12 ${isScrolled ? 'text-brand-green' : 'text-brand-yellow'}`} />
-          <span className={`text-2xl font-serif tracking-wide font-bold ${isScrolled ? 'text-brand-dark' : 'text-brand-white'}`}>Markhins ARTORYX'26</span>
+          <span className={`text-2xl font-serif tracking-wide font-bold ${isScrolled ? 'text-brand-dark' : 'text-brand-white'}`}>MARKHINS ARTORYX'26</span>
         </a>
         
         {/* Desktop Nav */}
@@ -142,7 +142,7 @@ export function Footer() {
             <h3 className="text-3xl font-serif text-brand-white font-bold">ARTORYX'26</h3>
           </div>
           <p className="text-brand-white/80 mb-2 font-serif italic text-lg">You are connecting....</p>
-          <p className="text-brand-white/80 font-bold text-sm uppercase tracking-wider text-brand-yellow">Organized by Markhins Bengaluru</p>
+          <p className="text-brand-white/80 font-bold text-sm uppercase tracking-wider text-brand-yellow">Organized by MARKHINS Bengaluru</p>
         </div>
         <div className="flex space-x-6 mb-8 md:mb-0">
           <a href="https://facebook.com/markhinsblr" target="_blank" rel="noopener noreferrer" className="text-brand-white/80 hover:text-brand-yellow transition-colors"><Facebook /></a>
@@ -151,7 +151,7 @@ export function Footer() {
         </div>
       </div>
       <div className="text-center mt-12 text-brand-white/60 text-sm space-y-2">
-        <p>&copy; 2026 Markhins Bengaluru. All Rights Reserved.</p>
+        <p>&copy; 2026 MARKHINS Bengaluru. All Rights Reserved.</p>
         <p>Designed with ❤️ to empower creativity, leadership, and innovation.</p>
       </div>
     </footer>

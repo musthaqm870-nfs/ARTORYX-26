@@ -25,7 +25,7 @@ export function AboutSection() {
               Celebrating creativity, talent, and innovation.
             </p>
             <p className="text-brand-dark/70 leading-relaxed mb-4">
-              Artoryx is the annual arts and cultural festival of Markhins Islamic College, celebrating creativity, talent, and innovation. It brings together students from diverse backgrounds to showcase their skills through inspiring performances, artistic competitions, and meaningful cultural experiences.
+              Artoryx is the annual arts and cultural festival of MARKHINS Islamic College, celebrating creativity, talent, and innovation. It brings together students from diverse backgrounds to showcase their skills through inspiring performances, artistic competitions, and meaningful cultural experiences.
             </p>
             <p className="text-brand-dark/70 leading-relaxed mb-10">
               More than just a festival, Artoryx is a platform that nurtures imagination, builds confidence, and fosters unity, encouraging participants to express their ideas while upholding values of excellence, respect, and collaboration.

@@ -29,7 +29,7 @@ export const BrochureSection: React.FC = () => {
         {/* Right side: Text and Download */}
         <div className="w-full md:w-[40%] bg-brand-yellow p-10 md:p-16 lg:p-24 flex flex-col justify-center items-start">
           <p className="text-brand-dark font-medium text-lg md:text-xl lg:text-2xl leading-relaxed mb-10">
-            As a perennial journey of academic and moral excellence, Markhins is shaping a better tomorrow through intensive and integrated education, offering a unique path to spiritual and career success.
+            As a perennial journey of academic and moral excellence, MARKHINS is shaping a better tomorrow through intensive and integrated education, offering a unique path to spiritual and career success.
           </p>
           <a 
             href="/brochure.pdf" 

@@ -20,7 +20,7 @@ export default function App() {
     return (
       <div className="fixed inset-0 flex flex-col items-center justify-center bg-brand-beige z-[100]">
           <div className="w-12 h-12 border-4 border-brand-green/30 border-t-brand-green rounded-full animate-spin"></div>
-          <h2 className="mt-6 text-2xl font-serif tracking-widest text-brand-green font-bold">Markhins ARTORYX'26</h2>
+          <h2 className="mt-6 text-2xl font-serif tracking-widest text-brand-green font-bold">MARKHINS ARTORYX'26</h2>
       </div>
     );
   }

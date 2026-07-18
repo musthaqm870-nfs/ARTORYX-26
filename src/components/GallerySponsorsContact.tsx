@@ -16,7 +16,7 @@ export function ContactSection() {
             <h2 className="text-4xl md:text-5xl font-serif text-brand-yellow font-bold mb-6">Contact</h2>
             <p className="text-brand-white/80 mb-12 text-lg leading-relaxed">
               ARTORYX'26 Organizing Committee<br/>
-              Markhins Bengaluru<br/>
+              MARKHINS Bengaluru<br/>
               Markaz Khykha Institute of Higher Islamic Studies
             </p>
             

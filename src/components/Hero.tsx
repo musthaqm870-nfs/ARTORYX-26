@@ -6,7 +6,7 @@ export function Hero() {
       <div className="absolute inset-0 z-0 bg-brand-dark">
         <img 
           src="/background.jpg" 
-          alt="Markhins ARTORYX'26 Event" 
+          alt="MARKHINS ARTORYX'26 Event" 
           className="w-full h-full object-cover object-center opacity-40"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-brand-dark/80 via-brand-dark/60 to-brand-dark/90"></div>
@@ -19,7 +19,7 @@ export function Hero() {
           transition={{ duration: 1, delay: 0.2 }}
           className="text-5xl md:text-7xl lg:text-8xl font-serif text-brand-white font-bold mb-6 tracking-tight drop-shadow-xl"
         >
-          Markhins ARTORYX'26
+          MARKHINS ARTORYX'26
         </motion.h1>
         
         <motion.h2 
@@ -37,7 +37,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="text-lg text-brand-white/90 max-w-2xl mx-auto mb-12 font-medium leading-relaxed drop-shadow-md"
         >
-          A creative arts festival celebrating talent, innovation, culture, leadership, and creativity at Markhins Bangalore.
+          A creative arts festival celebrating talent, innovation, culture, leadership, and creativity at MARKHINS Bangalore.
         </motion.p>
         
         <motion.div 
